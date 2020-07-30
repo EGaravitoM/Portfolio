@@ -1,0 +1,10 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (ProyectoBase.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Main.cpp
+d:\escuela\lmad\3er semestre\poo\proyecto\01 proyecto final\pf poo\imagenes.h(61): warning C4101: 'e': unreferenced local variable
+d:\escuela\lmad\3er semestre\poo\proyecto\01 proyecto final\pf poo\imagenes.h(80): warning C4101: 'e': unreferenced local variable
+d:\escuela\lmad\3er semestre\poo\proyecto\01 proyecto final\pf poo\skydome.h(47): warning C4101: 'indice': unreferenced local variable
+d:\escuela\lmad\3er semestre\poo\proyecto\01 proyecto final\pf poo\terrain.h(73): warning C4101: 'indice': unreferenced local variable
+d:\escuela\lmad\3er semestre\poo\proyecto\01 proyecto final\pf poo\scene.h(56): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+d:\escuela\lmad\3er semestre\poo\proyecto\01 proyecto final\pf poo\scene.h(135): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+  PF POO.vcxproj -> D:\Escuela\LMAD\3er Semestre\POO\Proyecto\01 Proyecto Final\Debug\PF POO.exe
+  PF POO.vcxproj -> D:\Escuela\LMAD\3er Semestre\POO\Proyecto\01 Proyecto Final\Debug\PF POO.pdb (Partial PDB)
