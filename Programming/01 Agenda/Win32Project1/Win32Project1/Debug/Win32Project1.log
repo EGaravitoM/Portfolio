@@ -1,0 +1,6 @@
+﻿  Source.cpp
+d:\escuela\lmad\2do semestre\progra2\agenda\win32project1\win32project1\source.cpp(1549): warning C4101: 'hArchivo': unreferenced local variable
+d:\escuela\lmad\2do semestre\progra2\agenda\win32project1\win32project1\source.cpp(1671): warning C4101: 'a': unreferenced local variable
+d:\escuela\lmad\2do semestre\progra2\agenda\win32project1\win32project1\source.cpp(1691): warning C4101: 'cita': unreferenced local variable
+  Win32Project1.vcxproj -> D:\Escuela\LMAD\2do semestre\Progra2\Agenda\Win32Project1\Debug\Win32Project1.exe
+  Win32Project1.vcxproj -> D:\Escuela\LMAD\2do semestre\Progra2\Agenda\Win32Project1\Debug\Win32Project1.pdb (Partial PDB)
