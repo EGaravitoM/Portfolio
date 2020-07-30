@@ -1,0 +1,53 @@
+*{
+   /* border: 0.1px solid red;*/
+}
+.GNB_E { 
+    margin-top: 0.4em;
+    float: left;
+} /* Cada elemento flota a la izquierda */
+.GNB_E .GNB_A{
+    color: #FFFFFF;
+    display: block;
+    text-align: center;
+    padding: 0.8em 1em;
+    text-decoration: none;
+}
+.GNB_E .GNB_S{
+    width: 250%;
+    height: 75%;
+    margin-top: 0.1em;
+}
+.SI{
+    float: right;
+}
+.GNB {
+    list-style-type: none;
+    margin-bottom: 0.5em;
+    padding-bottom: 0em;
+    background-color: #3361FF; /* Color a todo el fondo */
+    /* Pegada al desplazar: position: sticky; */
+    /* Fija arriba */
+    position: fixed;
+    top: 0; /* O abajo: bottom: 0 */
+    z-index: 2;
+    height: 3.9em;
+    width: 100%;
+}
+.logo{
+    width: 5.12em;
+    display: inline;
+    margin-right: 2.3em;
+    margin-left: 1.2em;
+    
+}
+#uimg{
+    border: none;
+    width: 3em;
+}
+
+.inicionav{
+    margin-left: 1em;
+}
+.finnav{
+    margin-right: 2em;
+}

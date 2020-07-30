@@ -1,0 +1,23 @@
+*, .standard{
+	margin: 0;
+    padding: 0;
+    font-family: Palanquin !important;
+    font-size: 1em;
+    color: #3361FF;
+}
+
+.small-title{
+	font-size: 2.25em;
+    color: #3361FF;
+}
+
+.big-title{
+	font-size: 3em;
+    color: #3361FF;
+}
+
+.commonB{
+	color: #FFFFFF;
+	background-color: #3361FF;
+    
+}

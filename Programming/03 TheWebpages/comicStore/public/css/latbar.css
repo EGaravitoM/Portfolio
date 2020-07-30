@@ -1,0 +1,41 @@
+*{
+  
+    /*border: 0.1px solid red;*/
+}
+.small-Title{
+    font-family: Palanquin;
+    margin-left: 1.3em;
+    font-size: 1.1em;
+    color: #3361FF;
+}
+.GNB_E { 
+    float: left;
+} /* Cada elemento flota a la izquierda */
+.GNB_E .GNB_A {
+    color: #3361FF;
+    display: block;
+    text-align: center;
+    padding: 0.8em 1em;
+    text-decoration: none;
+}
+.GNB_E{
+    width: 100%;
+    margin-top: 0.5em;
+}
+.GNA {   
+    list-style-type: none;
+    background-color: #FFFFFF;
+    margin-top: 3em; 
+    padding: 0;
+    padding-top: 3em;   
+    width: 10em;   
+    height: 100%;   
+    position: fixed; /* Para dejarla fija a la izquierda */   
+    overflow: auto; /* Desborde con desplazamiento */ 
+    z-index: 1;
+} 
+.GNA .GNB_E {   
+    display: block; /* Permite dar clic en toda el área */   
+    text-decoration: none;
+    text-align: center; 
+}

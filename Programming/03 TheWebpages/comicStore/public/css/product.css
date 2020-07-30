@@ -1,0 +1,209 @@
+*{
+    margin: 0;
+    padding: 0;
+    /*border: 0.1px solid red;*/
+}
+
+
+#amount {
+    margin-right: 4em;
+    margin-bottom: 5em;
+    width: 15.62em;
+}
+.fav{
+    
+    margin-left: 3em;
+    margin-bottom: 3em;
+}
+.compra_fav{
+    margin-right: 7em;
+    float: left;
+    width: 20em;
+}
+#ATC {
+    width: 100%;
+}
+
+.descripcion{
+    width: 100%;
+    padding-bottom: 4em;
+}
+#percio_unidades{
+    float: left;
+    width: 100%;
+}
+.descpres{
+    margin-left: 1em;
+    float: left;
+    margin-top: 1.5em;
+    margin-right: 2em;
+    width: 30em;
+}
+
+#ImgMuestra{
+    margin-top: 0.5em;
+    margin-left: 2.2em;
+    float: left;
+    width: 6.25em;
+}
+
+#ImgMuestra2{
+    margin-top: 0.5em;
+    margin-left: 0.2em;
+    float: left;
+    width: 6.25em;
+}
+
+#imgMain{
+    width: 12.5em;
+    margin-left: 2.2em;
+    margin-right: 3em;
+    float: left;
+    display: block;
+}
+
+#imgs{
+    float: left;
+    margin-left: 3.5em;
+    width: 17.5em;
+    height: 15.5em;
+}
+
+#imgMain img, .imgcomment img{
+    width: 100%;
+    height: 100%;
+}
+#main{
+    width: 18.75em;
+    height: 18.75em;
+    size: 100%;
+    padding-bottom: 0;
+    margin-bottom: 0;
+
+}
+
+#top{
+    width: 4.37em;
+    size:100%;
+    padding-top: 0;
+}
+
+
+#ndp{
+    margin-left: 1.87em;
+    float: left;
+    margin-bottom: 0;
+    padding-bottom: 1em;
+    margin-top: 2.37em;
+    width: 30em;
+    float: left;
+}
+
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+.starrr {
+    display: inline-block; 
+}
+.starrr a{
+    font-size: 1em;
+    padding: 0 0.06em;
+    cursor: pointer;
+    color: #FFD119;
+    text-decoration: none; 
+}
+
+.comentgroup{
+    margin-top: 2em;
+    margin-left: 4em;
+    width: 90em;
+    float: left;
+}
+
+#comenttime{
+    padding: 0%;
+    width: 84%;
+}
+
+#bc2{
+    width: 10em;
+    float: right;
+}
+
+#cbox{
+    border-radius: 15px;
+    margin-top: 0.75em;
+    padding: 0%;
+    width: 100%;
+}
+.comentario{
+    width: 66em;
+    margin-left: 2em;
+    margin-bottom: 1em;
+    margin-top: 1em;
+}
+
+.us_img{
+    width: 10em;
+}
+
+.us_img > *{
+    width: 20%;
+    margin-left: 0.75em;
+}
+
+.imgcomment{
+    margin-top: 0.2em;
+    margin-left: 25%;
+    width: 50%;
+}
+#uimg{
+    width: 3.12em;
+}
+
+.video{
+    margin-top: 35em;
+    height: 20em;
+    width: 80%;
+    align-content: center;
+}
+
+.video *{
+    margin-left: 25%;
+}
+
+#report{
+    float: right;
+    margin-right: 20%;
+}
+
+.voteComment{
+    margin-top: 0.3em;
+    width: 97%;
+    height: 7%;
+    float: right;
+}
+.voteComment input, .voteComment a{
+    float: right;
+    margin-right: 0.3em;
+}
+
+.u_commen{
+    font-style: initial;
+    margin-left: 1em;
+    margin-top: 1em;
+    width: 80%;
+}
+
+.star_y{
+    background-color: #f5e050;
+}
+.star_b{
+    background-color: #CCCCCC;
+}
+.estrellita{
+    border-radius: 1em;
+}

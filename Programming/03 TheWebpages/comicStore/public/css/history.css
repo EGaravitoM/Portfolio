@@ -1,0 +1,45 @@
+.pages{
+    float: right;
+}
+
+#yoQuieroIrACasa{
+    float: left;
+}
+
+#uimg{
+    height: 50px;
+    width: 50px;
+}
+
+.GNB {
+    list-style-type: none;
+    margin-bottom: 10px;
+    padding-bottom: 0px;
+    background-color: #f1f1f1; /* Color a todo el fondo */
+    /* Pegada al desplazar: position: sticky; */
+    /* Fija arriba */
+    position: fixed;
+    top: 0; /* O abajo: bottom: 0 */
+    width: 100%;
+}
+
+.GNB_E { 
+    float: left;
+    
+} /* Cada elemento flota a la izquierda */
+
+.GNB_E .GNB_A {
+    color: red;
+    display: block;
+    text-align: center;
+    padding: 14px 16px;
+}
+.GNB_E .GNB_S{
+    width: 250%;
+    height: 75%;
+    margin-top: 10px;
+}
+
+.SI{
+    float: right;
+}

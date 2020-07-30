@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    /*border: 0.1px solid red;*/
+}
+
+.login{
+    margin: auto;
+    margin-top: 10em;
+    width: 20em;
+}
+
+.ssi{
+    display: block;
+}
+
+.SI_E{
+    margin-bottom: 0.25em;
+}
+
+
+#goford, #goback{
+    width: 9em;
+}
+
+.form-control{
+    width: 100%;
+    margin-bottom: 0.1em;
+}
+
+#goford{
+    float: right;
+}
+
+body{
+    background-color: white;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.SU{
+    width: 100%;
+}
+
+#relog{
+    margin-bottom: 20px;
+    margin-left: 5px;
+}
